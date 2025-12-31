@@ -46,9 +46,11 @@
 
 ### 📊 ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ
 
+<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
 ![Metrics](https://metrics.lecoq.io/mcdygaming?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FBanten)
 
-<img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcdygaming&theme=algolia" alt="mcdygaming"  /></p>
 
