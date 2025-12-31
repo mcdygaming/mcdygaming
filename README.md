@@ -50,6 +50,20 @@
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<p align="left">Play Games With Me !</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcdygaming/mcdygaming/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mcdygaming/mcdygaming/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mcdygaming/mcdygaming/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thanks%20For%20Visiting%20&section=footer&fontColor=61DAFB&fontSize=30&animation=twinkling" />
 </div>
