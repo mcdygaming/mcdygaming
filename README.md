@@ -11,6 +11,8 @@
     <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
 </div> 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="35" height="35"> ᴛᴏᴏʟꜱ
 <p align="center">
   <a href="https://skillicons.dev">
@@ -50,6 +52,13 @@
 <img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcdygaming&theme=algolia" alt="mcdygaming"  /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ✍️ ʀᴀɴᴅᴏᴍ ᴅᴇᴠ Qᴜᴏᴛᴇ
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
