@@ -48,10 +48,14 @@
 
 ### 📊 ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴠɪᴛʏ
 
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=mcdygaming&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
 
-<img align="right" width="35%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mcdygaming&theme=algolia" alt="mcdygaming"  /></p>
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcdygaming&theme=algolia&hide_border=true" alt="mcdygaming"  /></p>
+  <img height="150" width="150" src="WEBP/right.webp"/>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
