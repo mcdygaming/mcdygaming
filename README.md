@@ -1,6 +1,8 @@
+
+
 <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="200" height="41"> <img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center">ʜɪ ꜰʀɪᴇɴᴅꜱ, ɪ'ᴍ ᴘᴀɴᴅᴀ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">ʜɪ ꜰʀɪᴇɴᴅꜱ, ɪ'ᴍ ᴘᴀɴᴅᴀ <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Panda.png" height="30px" width="30px"></h1>
 
 <p align="center">
   <a href="https://github.com/mcdygaming/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=ɪ'ᴍ+ᴊᴜꜱᴛ+ɴᴇᴡʙɪᴇ;ʙᴜᴛ+ɪ+ᴡɪʟʟ+ᴋᴇᴇᴘ+ʟᴇᴀʀɴɪɴɢ;ɪ%20|%20ʟɪᴋᴇ%20|%20ᴄᴏᴅɪɴɢ%20:);ʟᴇᴛꜱ%20ꜱᴛᴜᴅʏ;ᴛᴏɢᴇᴛʜᴇʀ%20:)&center=true&width=500&height=50"></a>
@@ -8,7 +10,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <div align="center">
-    <picture><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" align="center" style="width: 100%" /><picture>
+    <picture><img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" align="center" style="width: 100%" /><picture>
 </div> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -53,6 +55,13 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mcdygaming&theme=algolia&hide_border=true" alt="mcdygaming"  /></p>
 
+  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=mcdygaming&theme=react&radius=10" alt="mcdygaming's Activity Graph" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+###
+
+![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -65,7 +74,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🎮 ᴘʟᴀʏ ɢᴀᴍᴇꜱ ᴡɪᴛʜ ᴍᴇ !</p>
+### 🎮 ᴘʟᴀʏ ɢᴀᴍᴇꜱ ᴡɪᴛʜ ᴍᴇ 😊</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mcdygaming/mcdygaming/output/pacman-contribution-graph-dark.svg">
@@ -81,3 +90,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Thanks%20For%20Visiting%20&section=footer&fontColor=61DAFB&fontSize=30&animation=twinkling" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
