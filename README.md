@@ -68,7 +68,7 @@
 ### ✍️ ʀᴀɴᴅᴏᴍ ᴅᴇᴠ Qᴜᴏᴛᴇ
 <p align="center">
   <img height="150" width="150" src="WEBP/left.webp"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" width="500em" height="150em" />
   <img height="150" width="150" src="WEBP/right.webp"/>
 </p>
 
